@@ -1,4 +1,3 @@
-streamlit
-pandas
-scikit-learn
-numpy==1.26.4
+# house-price-predictor
+
+House price prediction using machine learning
